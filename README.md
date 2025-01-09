@@ -1,4 +1,4 @@
-# LIC.DSA
+# LIC DSA
 New Database Aggregating Quantitative Information from DSA lead on LICs between 2013 and 2023
 
 This document presents the Finance for Development Lab Database on IMF-WB DSAs in LICs. The project was undertaken over 2023/2024 thanks to funding from the Rockefeller Foundation. 
