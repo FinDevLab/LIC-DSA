@@ -3,8 +3,6 @@ New Database Aggregating Quantitative Information from DSA lead on LICs between 
 
 This document presents the Finance for Development Lab Database on IMF-WB DSAs in LICs. The project was undertaken over 2023/2024 thanks to funding from the Rockefeller Foundation. 
 The database gathers almost all Debt Sustainability Analyses (DSA) conducted jointly by the World Bank and the IMF from 2013 to 2023 for Low Income Countries (LIC) and Small Vulnerable States. For more information on the LIC Debt Sustainability Framework (DSF) tool, please refer to the online documentation . Data present in the database were extracted from PDF reports collected from the IMF website . 
-The database provides two types of data: (i) a repository with DSA pdfs and (ii) associated extracted excel tables for key quantitative data. The quantitative data is then further aggregated in easily usable format for excel, R, python & other coding/programming languages. 
-The DSAs included in the database were conducted under two different methodologies: one based on the 2013 guidance note for DSAs published between 2013 and beginning of 2018  and one following the 2017 reform and renewed guidance note. 
 
 To construct the database, we collected information from a set of tables displayed uniformly across DSAs and methodologies: 
 -	Table A: Risk of debt distress, 
