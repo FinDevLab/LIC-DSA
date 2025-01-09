@@ -49,7 +49,7 @@ The dictionary file has 5 tabs: a readme (“README”), a detailed table (“TR
 This excel contains information about the variables in the database (Label, units, alternatives, comparison between methods). A 'readme' is present on the first sheet of this workbook for further information. 
 
 ## Data
-There is a single identifier dsa_id, which is coded as ISO3_YEAR_MONTH
+There is a single identifier dsa.id, which is coded as ISO3_YEAR_MONTH
 
 The final database is divided in two parts: 
 1)	Part 1: “DSA_id.xlsx” which includes tables A, B, C and D with all non-time-varying variables (as well as dsa_id and the corresponding country, year and month)
