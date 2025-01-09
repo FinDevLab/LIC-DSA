@@ -38,10 +38,10 @@ A key determinant of the risk level is the debt carrying capacity (DCC), which i
 ## Table D: Borrowing assumptions for stress tests
 General assumptions on the borrowing rates are not published, but the additional shocks for stress tests are, and we also scrape the corresponding table. 
  
+# Using the database
+
 As of December 09, 2024, the database comprises 606 DSAs from 2013 to 2023 for 68 LICs. 303 DSAs are collected under the methodology preceding the 2017 reform and 303 DSAs under the following methodology. 
 The database is available on the FDL Website and on the FDL Github account.
-
-# Using the database
 
 ## Data Dictionary :
 Because of significant differences in variables presented for pre- and post-2017 review, we provide a dictionary of variables which allow to check which variables are present in which version.
