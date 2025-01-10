@@ -52,8 +52,8 @@ This excel contains information about the variables in the database (Label, unit
 There is a single identifier dsa.id, which is coded as ISO3_YEAR_MONTH
 
 The final database is divided in two parts: 
-1)	Part 1: “DSA_id.xlsx” which includes tables A, B, C and D with all non-time-varying variables (as well as dsa_id and the corresponding country, year and month)
-2)	Part 2: “DSA.dta.xlsx” which includes Tables 1-4 with projection by year for all time varying variables
+-	Part 1: “DSA_id.xlsx” which includes tables A, B, C and D with all non-time-varying variables (as well as dsa_id and the corresponding country, year and month)
+-	Part 2: “DSA.dta.xlsx” which includes Tables 1-4 with projection by year for all time varying variables
 
 The two parts are formatted “wide”.
 
