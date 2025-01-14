@@ -1,5 +1,7 @@
 # FDL LIC-DSAs Database: A Guide
 
+Léo Voisinne, Vincent Giraud, Brendan Harnoys-Vannier, Martin Kessler
+
 # Background 
 
 This document introduces the FDL LIC-DSAs Database, which collects Debt Sustainability Analyses for Low-Income Countries as published by the World Bank and the IMF, between 2013 and 2024.
